@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+a{text-decoration:none;}
+li{list-style:none;}
+
+.all{width:1280px;height:6994px;margin:0 auto;}
+/*头部*/
+.top{width:1280px;height:40px;background:#333333;}
+.top li{float:left;padding:0 12px;;display:block;height:40px;line-height:40px;}
+.all .top .top5{padding:0px;width:39px;height:40px;text-align:center;}
+.all .top .top6{padding:0px;width:39px;height:40px;text-align:center;}
+.all .top .top6 a{color:#fff;}
+.all .top .top7{padding:0px;width:85px;height:40px;text-align:center;}
+.all .top .top8{padding:0px;width:120px;height:40px;text-align:center;}
+.top li a{color:#b0b0b0;font-size:12px;}
+.top .top1{padding-left:18px;}
+.top .top4{margin-right:500px;}
+
+/*导航*/
+.nav{position:relative;width:1280px;height:100px;}
+.nav .logo{position:absolute;left:27px;top:22px;}
+.nav li{float:left;}
+.nav .nav2{padding:0 25px 0 270px;line-height:100px;}
+.nav .nav1{padding-right:25px;line-height:100px;}
+.nav a{color:#333333;}
+.nav .nav3 input{width:243px;height:43px;}
